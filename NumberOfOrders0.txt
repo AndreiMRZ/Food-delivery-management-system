@@ -1,0 +1,1 @@
+[BaseProduct{title='Stuffed Cornish Hens with Port Sauce ', rating=3.125, calories=892, protein=54, fat=55, sodium=283, price=79}=3]

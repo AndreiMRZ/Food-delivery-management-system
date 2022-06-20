@@ -1,0 +1,3 @@
+Order 31
+ Products : 
+BaseProduct{title='BBQ Beef Brisket ', rating=0.0, calories=1078, protein=67, fat=87, sodium=379, price=31}BaseProduct{title='Japanese-Style Potato Salad with Daikon and Cucumber ', rating=3.125, calories=372, protein=5, fat=23, sodium=187, price=32}BaseProduct{title='Roast Turkey with Hazelnut Stuffing ', rating=0.0, calories=2351, protein=48, fat=91, sodium=1388, price=82}Total Price = 145

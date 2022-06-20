@@ -1,0 +1,1 @@
+[Client{id=0, username='Client', pass='111'}]
